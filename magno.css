@@ -2,6 +2,8 @@
 {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(41,97,108,0) 66%);
+    font-size: 60px;
+    color: white;
 }
 
 h1
@@ -9,4 +11,46 @@ h1
     padding: 30px;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px black;
+}
+
+.dolt {
+    font-style: italic;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+.kepfelirat {
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    color: #444;
+    margin-top: 12px;
+}
+
+#jobboszlop {
+    background-color: #333;
+    color: white;
+
+}
+
+.keretes {
+    border: 6px solid white;
+    margin: 20px 0;
+}
+
+li {
+    line-height: 2em;
+}
+
+.footer {
+    border-top: 2px dotted black;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+}
+
+.fk {
+    font-weight: bold;
 }
